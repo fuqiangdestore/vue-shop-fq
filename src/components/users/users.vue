@@ -1,17 +1,21 @@
 <template>
-  <div id="app">
-    <router-view/>
-  </div>
+<el-card class="box_card">
+  <!-- 面包屑 -->
+
+</el-card>
 </template>
 
 <script>
 export default {
-  name: 'App'
+
+
 }
 </script>
 
 <style>
-#app {
+.box_card{
   height: 100%;
+
 }
+
 </style>
